@@ -1,19 +1,15 @@
 # Loop Change Text Color
 
-Ce projet est un script javascript qui permet de changer la couleur du texte d'une page web toutes les secondes.
+Ce projet est un script javascript qui permet de changer la couleur d'un texte toutes les secondes.
 
 ## Fonctionnalités
 
 - Changement toutes les secondes de la couleur du texte
 - Possibilité de personnaliser la fréquence de changement de couleur
 
-## Utilisation
-
-Vous pouvez personnaliser la fréquence de changement de couleur en modifiant la variable `speed` en mettant le nombre de secondes.
-
 ## Personnalisation
 
-Si vous souhaitez personnaliser le script Loop Change Text Color, vous pouvez modifier le code javascript dans le fichier `script.js`.
+Vous pouvez personnaliser la fréquence de changement de couleur en modifiant la variable `speed` en mettant le nombre de secondes.
 
 ## Auteur
 
